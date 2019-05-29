@@ -1,0 +1,65 @@
+C:\Users\alu201714631\Downloads\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\alu201714631\Downloads\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Downloads\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\alu201714631\Downloads\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Downloads\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\alu201714631\Downloads\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojResolveAssemblyReference.cache
+C:\Users\GabRyeL\OneDrive\Projetos\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\GabRyeL\OneDrive\Projetos\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojResolveAssemblyReference.cache
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 2.0\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojResolveAssemblyReference.cache
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 4.0 Algoritmo Genético\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 4.0 Algoritmo Genético\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 4.0 Algoritmo Genético\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 4.0 Algoritmo Genético\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 4.0 Algoritmo Genético\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 4.0 Algoritmo Genético\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojResolveAssemblyReference.cache
+C:\Users\alu201714631\Desktop\RPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\alu201714631\Desktop\RPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Desktop\RPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\alu201714631\Desktop\RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojAssemblyReference.cache
+C:\Users\alu201714631\Desktop\RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csproj.CoreCompileInputs.cache
+C:\Users\alu201714631\Desktop\RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Desktop\RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 5 AG 2 Tabu\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 5 AG 2 Tabu\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 5 AG 2 Tabu\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 5 AG 2 Tabu\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 5 AG 2 Tabu\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 5 AG 2 Tabu\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojResolveAssemblyReference.cache
+C:\Users\alu201714631\Desktop\SuperRPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojAssemblyReference.cache
+C:\Users\alu201714631\Desktop\SuperRPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csproj.CoreCompileInputs.cache
+C:\Users\alu201714631\Desktop\SuperRPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Desktop\SuperRPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\alu201714631\Desktop\SuperRPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\alu201714631\Desktop\SuperRPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Desktop\SuperRPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 6\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 6\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 6\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 6\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 6\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 6\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojResolveAssemblyReference.cache
+C:\Users\alu201714631\Desktop\Super RPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\alu201714631\Desktop\Super RPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Desktop\Super RPG\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\alu201714631\Desktop\Super RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojAssemblyReference.cache
+C:\Users\alu201714631\Desktop\Super RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csproj.CoreCompileInputs.cache
+C:\Users\alu201714631\Desktop\Super RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\alu201714631\Desktop\Super RPG\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 6\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csproj.ResolveComReference.cache
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 7\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe.config
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 7\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csproj.ResolveComReference.cache
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 7\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 7\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 7\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).exe
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 7\SuperRPG (CSharp)\bin\Debug\SuperRPG (CSharp).pdb
+C:\Users\GabRyeL\OneDrive\Projetos CSharp\SuperRPG (CSharp) 7\SuperRPG (CSharp)\obj\Debug\SuperRPG (CSharp).csprojResolveAssemblyReference.cache

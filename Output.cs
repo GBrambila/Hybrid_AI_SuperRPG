@@ -50,22 +50,22 @@ namespace SuperRPG__CSharp_
                 string descricao = "";
                 if(int.Parse(cromo[i*3])==1)
                 {
-                    descricao += "Comprar Espada";
+                    descricao += "Buy Sword";
                 }
                 else if(int.Parse(cromo[i*3])==2)
                 {
-                    descricao += "Comprar Escudo";
+                    descricao += "Buy Shield";
                 }
                 else if(int.Parse(cromo[i*3]) == 3)
                 {
-                    descricao += "Comprar Espada e Escudo";
+                    descricao += "Buy Sword e Shield";
                 }
                 else
                 {
-                    descricao += "Nada";
+                    descricao += "Nothing";
                 }
-                descricao += ", " + cromo[i*3 + 1]+ " Pots e "+cromo[i*3+2]+ " Cristais.";
-                Console.WriteLine("\nAndar " + i +": "+descricao);
+                descricao += ", " + cromo[i*3 + 1]+ " Pots e "+cromo[i*3+2]+ " Pendant.";
+                Console.WriteLine("\nFloor " + i +": "+descricao);
             }
         }
         
